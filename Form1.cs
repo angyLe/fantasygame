@@ -14,9 +14,6 @@ namespace fantasyspill2
         SoundPlayer sp;
         string b;
         
-
-
-        
         public Form1()
         {
             InitializeComponent();
@@ -25,10 +22,6 @@ namespace fantasyspill2
             
 
         }
-
-
-        
-       
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -46,21 +39,13 @@ namespace fantasyspill2
             label2.Text = null;
 
             button3.Text = "Lagre spill"; //сохранить игру
-            button4.Text = "Lagring spill"; // запустить сохраненную игру
-            
-                      
+            button4.Text = "Lagring spill"; // запустить сохраненную игру    
             
            // StartGame (); // метод начала игры
-
         }
 
-       
-
-
         void StartGame() // начало игры
-        {
-           
-
+        {     
                         
             try
             {
@@ -191,19 +176,6 @@ namespace fantasyspill2
             }
 
         }
-
-       
-       
-
-        
-
-        // ///////////////////////////////////////////////////////////////////////////////////
-        
-       
-
-        
-       
-
 
     }
 }
