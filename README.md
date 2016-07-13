@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="http://www.zooclub.ru/skat/img.php?w=700&h=700&img=./attach/12000/12669.jpg">
+  <img src="https://cloud.githubusercontent.com/assets/13850045/16806370/8a3c00ee-4914-11e6-97d9-64a607df5e4d.png">
 </p>
