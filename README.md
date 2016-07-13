@@ -1,4 +1,5 @@
- # **Fantasy game**
+**Fantasy game**
+==========
 <p>
 This is desktop fantasy game with ability to save the game into text file.
 </p>
